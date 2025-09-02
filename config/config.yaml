@@ -1,0 +1,7 @@
+﻿env: "dev" # dev, prod
+postgres_win:
+  host: localhost
+  port: 5432
+  database: wbstorage
+  username: postgres
+  password: postgres
